@@ -1,0 +1,3 @@
+export const ADD_TO_FAVORITES = 'ADD_TO_FAVORITES'
+export const REMOVE_FROM_FAV = 'REMOVE_FROM_FAV'
+export const INIT_LOAD = 'INIT_LOAD'
